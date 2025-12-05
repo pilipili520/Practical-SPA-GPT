@@ -19,4 +19,4 @@
 
 ## 📂 Repository Structure
 
-Coming soon after the paper is accepted 🎉
+We are currently organizing the code and uploading it gradually. It will be updated regularly, so please refer to the latest version. 🎉
